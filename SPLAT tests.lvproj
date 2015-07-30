@@ -11,6 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AnchorTests.lvclass" Type="LVClass" URL="../AnchorTests/AnchorTests/AnchorTests.lvclass"/>
+		<Item Name="TagTests.lvclass" Type="LVClass" URL="../TagTests/TagTests/TagTests.lvclass"/>
+		<Item Name="Utility VIs tests.lvclass" Type="LVClass" URL="../Utility VIs tests/Utility VIs tests/Utility VIs tests.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="0B2DDAC1EBDDD091B2E934D251FB5792" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/0B2DDAC1EBDDD091B2E934D251FB5792"/>
@@ -242,9 +244,16 @@
 				<Item Name="VITesterUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/VITesterUtilities.lvlib"/>
 			</Item>
 			<Item Name="Anchor.lvclass" Type="LVClass" URL="../../SPLAT/Anchor/Anchor.lvclass"/>
+			<Item Name="Array Has Element.vi" Type="VI" URL="../../SPLAT/Array Has Element.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../../SPLAT/DrawCircle.vi"/>
+			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../../SPLAT/Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Global FieldLengthX.vi" Type="VI" URL="../../SPLAT/Global FieldLengthX.vi"/>
 			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../../SPLAT/Global FieldWidthY.vi"/>
+			<Item Name="Global X Border.vi" Type="VI" URL="../../SPLAT/Field Class/Global X Border.vi"/>
+			<Item Name="Global Y Border.vi" Type="VI" URL="../../SPLAT/Field Class/Global Y Border.vi"/>
+			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../../SPLAT/Insert Intersection Data In Cluster Array.vi"/>
+			<Item Name="Read XY from Tag To ClusterArray.vi" Type="VI" URL="../../SPLAT/Tag/Read XY from Tag To ClusterArray.vi"/>
+			<Item Name="Search 2D Array.vi" Type="VI" URL="../../SPLAT/Search 2D Array.vi"/>
 			<Item Name="Tag.lvclass" Type="LVClass" URL="../../SPLAT/Tag.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
