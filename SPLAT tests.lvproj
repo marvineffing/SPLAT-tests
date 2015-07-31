@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AnchorTests.lvclass" Type="LVClass" URL="../AnchorTests/AnchorTests/AnchorTests.lvclass"/>
+		<Item Name="Position Estimation Tests.lvclass" Type="LVClass" URL="../Position Estimation Tests/Position Estimation Tests.lvclass"/>
 		<Item Name="TagTests.lvclass" Type="LVClass" URL="../TagTests/TagTests/TagTests.lvclass"/>
 		<Item Name="Utility VIs tests.lvclass" Type="LVClass" URL="../Utility VIs tests/Utility VIs tests/Utility VIs tests.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -237,6 +238,7 @@
 				<Item Name="FFB3FCF08E4E0CC9A6589E2AF4BAE1E3" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/FFB3FCF08E4E0CC9A6589E2AF4BAE1E3"/>
 				<Item Name="Get File System Separator.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysinfo.llb/Get File System Separator.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="TestCase.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestCase.llb/TestCase.lvclass"/>
 				<Item Name="TestLoader.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestLoader.llb/TestLoader.lvclass"/>
 				<Item Name="TestResult.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestResult.llb/TestResult.lvclass"/>
@@ -246,12 +248,15 @@
 			<Item Name="Anchor.lvclass" Type="LVClass" URL="../../SPLAT/Anchor/Anchor.lvclass"/>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../../SPLAT/Array Has Element.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../../SPLAT/DrawCircle.vi"/>
+			<Item Name="Estimate All Positions New.vi" Type="VI" URL="../../SPLAT/Position Class/Estimate All Positions New.vi"/>
 			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../../SPLAT/Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Global FieldLengthX.vi" Type="VI" URL="../../SPLAT/Global FieldLengthX.vi"/>
 			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../../SPLAT/Global FieldWidthY.vi"/>
 			<Item Name="Global X Border.vi" Type="VI" URL="../../SPLAT/Field Class/Global X Border.vi"/>
 			<Item Name="Global Y Border.vi" Type="VI" URL="../../SPLAT/Field Class/Global Y Border.vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../../SPLAT/Insert Intersection Data In Cluster Array.vi"/>
+			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../../SPLAT/Anchor/Is Anchor ID Unique.vi"/>
+			<Item Name="Position.lvclass" Type="LVClass" URL="../../SPLAT/Position.lvclass"/>
 			<Item Name="Read XY from Tag To ClusterArray.vi" Type="VI" URL="../../SPLAT/Tag/Read XY from Tag To ClusterArray.vi"/>
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../../SPLAT/Search 2D Array.vi"/>
 			<Item Name="Tag.lvclass" Type="LVClass" URL="../../SPLAT/Tag.lvclass"/>
