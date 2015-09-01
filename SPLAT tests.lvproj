@@ -14,6 +14,7 @@
 		<Item Name="Position Estimation Tests.lvclass" Type="LVClass" URL="../Position Estimation Tests/Position Estimation Tests.lvclass"/>
 		<Item Name="TagTests.lvclass" Type="LVClass" URL="../TagTests/TagTests/TagTests.lvclass"/>
 		<Item Name="Utility VIs tests.lvclass" Type="LVClass" URL="../Utility VIs tests/Utility VIs tests/Utility VIs tests.lvclass"/>
+		<Item Name="WriteFileTests.lvclass" Type="LVClass" URL="../Write File Test/WriteFileTests/WriteFileTests.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="0B2DDAC1EBDDD091B2E934D251FB5792" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/0B2DDAC1EBDDD091B2E934D251FB5792"/>
