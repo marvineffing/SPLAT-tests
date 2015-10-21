@@ -263,6 +263,7 @@
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
+				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="TestCase.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestCase.llb/TestCase.lvclass"/>
 				<Item Name="TestLoader.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestLoader.llb/TestLoader.lvclass"/>
@@ -281,8 +282,9 @@
 			</Item>
 			<Item Name="Anchor.lvclass" Type="LVClass" URL="../../SPLAT/Anchor/Anchor.lvclass"/>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../../SPLAT/Array Has Element.vi"/>
+			<Item Name="Delete Tag from TagsArray by ID.vi" Type="VI" URL="../../SPLAT/Tag/Delete Tag from TagsArray by ID.vi"/>
+			<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../../SPLAT/Tag/Determine Distance to Tags from all Tags.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../../SPLAT/DrawCircle.vi"/>
-			<Item Name="Estimate All Positions New.vi" Type="VI" URL="../../SPLAT/Position Class/Estimate All Positions New.vi"/>
 			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../../SPLAT/Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Global FieldLengthX.vi" Type="VI" URL="../../SPLAT/Global FieldLengthX.vi"/>
 			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../../SPLAT/Global FieldWidthY.vi"/>
@@ -294,6 +296,7 @@
 			<Item Name="Read XY from Tag To ClusterArray.vi" Type="VI" URL="../../SPLAT/Tag/Read XY from Tag To ClusterArray.vi"/>
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../../SPLAT/Search 2D Array.vi"/>
 			<Item Name="Tag.lvclass" Type="LVClass" URL="../../SPLAT/Tag.lvclass"/>
+			<Item Name="Time To Milliseconds.vi" Type="VI" URL="../../SPLAT/Time To Milliseconds.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../../SPLAT/Write Data To File.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
