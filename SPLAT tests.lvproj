@@ -11,9 +11,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AnchorTests.lvclass" Type="LVClass" URL="../AnchorTests/AnchorTests/AnchorTests.lvclass"/>
+		<Item Name="FieldTests.lvclass" Type="LVClass" URL="../FieldTests/FieldTests/FieldTests.lvclass"/>
 		<Item Name="Position Estimation Tests.lvclass" Type="LVClass" URL="../Position Estimation Tests/Position Estimation Tests.lvclass"/>
 		<Item Name="TagTests.lvclass" Type="LVClass" URL="../TagTests/TagTests/TagTests.lvclass"/>
 		<Item Name="Utility VIs tests.lvclass" Type="LVClass" URL="../Utility VIs tests/Utility VIs tests/Utility VIs tests.lvclass"/>
+		<Item Name="WriteFileTests.lvclass" Type="LVClass" URL="../Write File Test/WriteFileTests/WriteFileTests.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="0B2DDAC1EBDDD091B2E934D251FB5792" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/0B2DDAC1EBDDD091B2E934D251FB5792"/>
@@ -260,6 +262,7 @@
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
@@ -284,7 +287,10 @@
 			<Item Name="Array Has Element.vi" Type="VI" URL="../../SPLAT/Array Has Element.vi"/>
 			<Item Name="Delete Tag from TagsArray by ID.vi" Type="VI" URL="../../SPLAT/Tag/Delete Tag from TagsArray by ID.vi"/>
 			<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../../SPLAT/Tag/Determine Distance to Tags from all Tags.vi"/>
+			<Item Name="Determine Operating Point.vi" Type="VI" URL="../../SPLAT/Tag/Determine Operating Point.vi"/>
+			<Item Name="Determine Plot Name.vi" Type="VI" URL="../../SPLAT/Field Class/Determine Plot Name.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../../SPLAT/DrawCircle.vi"/>
+			<Item Name="Field.lvclass" Type="LVClass" URL="../../SPLAT/Field Class/Field.lvclass"/>
 			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../../SPLAT/Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Global FieldLengthX.vi" Type="VI" URL="../../SPLAT/Global FieldLengthX.vi"/>
 			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../../SPLAT/Global FieldWidthY.vi"/>
